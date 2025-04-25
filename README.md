@@ -7,3 +7,4 @@ I programmed the card game WAR in JavaScript to sharpen my skills in game logic 
 - When up and running, press the Play button to simulate a card game.
 - Inspect the webpage and head over to the console to see game details. 
 - You can simulate as many games as you want.
+- Side Note -- AI Bob is a beast at the game. 
