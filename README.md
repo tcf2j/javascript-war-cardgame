@@ -1,5 +1,5 @@
 # WAR! 
-A simulated version of the card game WAR using javascript. If you enjoy it, hit the ⭐  
+A simulated version of the card game WAR using JavaScript. If you enjoy it, hit the ⭐  
 # Motivation 
 I programmed the card game WAR in JavaScript to sharpen my skills in game logic and work with arrays and objects. It was a fun way to practice control flow and simulate real-world game mechanics in code.
 # QuickStart 
